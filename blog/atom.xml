@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ruixey.github.io/blog</id>
     <title>Ruixey Studios Blog</title>
-    <updated>2022-11-24T00:00:00.000Z</updated>
+    <updated>2023-01-11T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ruixey.github.io/blog"/>
     <subtitle>Ruixey Studios Blog</subtitle>
     <icon>https://ruixey.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Release of Tycoon Kit v1 Documentation]]></title>
+        <id>Tycoon Kit v1</id>
+        <link href="https://ruixey.github.io/blog/Tycoon Kit v1"/>
+        <updated>2023-01-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello everyone,]]></summary>
+        <content type="html"><![CDATA[<p>Hello everyone,
+as said, the documentation for Tycoon Kit v1 has been moved to this website.</p><p>Check it out <a href="https://ruixey.github.io/docs/RTK1/Documentation" target="_blank" rel="noopener noreferrer">here</a></p><p><em>~ Ruixey</em></p>]]></content>
+        <author>
+            <name>Ruixey</name>
+            <uri>https://www.roblox.com/users/1580897793/profile</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>welcome</id>

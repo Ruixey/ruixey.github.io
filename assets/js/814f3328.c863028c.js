@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[631],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Release of Tycoon Kit v1 Documentation","permalink":"/blog/Tycoon Kit v1"},{"title":"Welcome","permalink":"/blog/welcome"}]}')}}]);

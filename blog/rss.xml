@@ -4,10 +4,19 @@
         <title>Ruixey Studios Blog</title>
         <link>https://ruixey.github.io/blog</link>
         <description>Ruixey Studios Blog</description>
-        <lastBuildDate>Thu, 24 Nov 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jan 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Release of Tycoon Kit v1 Documentation]]></title>
+            <link>https://ruixey.github.io/blog/Tycoon Kit v1</link>
+            <guid>Tycoon Kit v1</guid>
+            <pubDate>Wed, 11 Jan 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hello everyone,]]></description>
+            <content:encoded><![CDATA[<p>Hello everyone,
+as said, the documentation for Tycoon Kit v1 has been moved to this website.</p><p>Check it out <a href="https://ruixey.github.io/docs/RTK1/Documentation" target="_blank" rel="noopener noreferrer">here</a></p><p><em>~ Ruixey</em></p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://ruixey.github.io/blog/welcome</link>
