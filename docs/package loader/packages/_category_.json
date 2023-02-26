@@ -1,0 +1,9 @@
+{
+  "label": "packages",
+  "position": 2,
+  "link": {
+    "title": "Ruixey's Packages",
+    "type": "generated-index",
+    "description": "Advanced management system for packages"
+  }
+}

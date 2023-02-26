@@ -1,0 +1,7 @@
+{
+  "type": "mdx",
+  "permalink": "/packages",
+  "source": "@site/src/pages/packages.md",
+  "description": "Packages",
+  "frontMatter": {}
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "RTK1/Documentation",
+  "id": "RTK1/Documentation",
+  "title": "Documentation",
+  "description": "Guide for using the kit",
+  "source": "@site/docs/RTK1/Documentation.md",
+  "sourceDirName": "RTK1",
+  "slug": "/RTK1/Documentation",
+  "permalink": "/docs/RTK1/Documentation",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "RTK1",
+    "permalink": "/docs/category/rtk1"
+  },
+  "next": {
+    "title": "Addons",
+    "permalink": "/docs/RTK1/Addons"
+  }
+}

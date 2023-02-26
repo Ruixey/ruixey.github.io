@@ -1,0 +1,26 @@
+{
+  "unversionedId": "RTK1/Addons",
+  "id": "RTK1/Addons",
+  "title": "Addons",
+  "description": "Addons are sent to me by 3rd party creators, verified and released by me.",
+  "source": "@site/docs/RTK1/Addons.md",
+  "sourceDirName": "RTK1",
+  "slug": "/RTK1/Addons",
+  "permalink": "/docs/RTK1/Addons",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Documentation",
+    "permalink": "/docs/RTK1/Documentation"
+  },
+  "next": {
+    "title": "packages",
+    "permalink": "/docs/category/packages"
+  }
+}

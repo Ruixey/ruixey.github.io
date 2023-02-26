@@ -1,0 +1,3 @@
+# Redirecting...
+
+<meta http-equiv="refresh" content="0;url=https://devforum.roblox.com/t/scripter-and-ui-designer-with-high-qualifications-for-hire-discord/1435282" />

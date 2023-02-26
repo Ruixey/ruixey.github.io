@@ -1,0 +1,16 @@
+{
+  "title": "test",
+  "description": "A very advanced Kit for Tycoons",
+  "slug": "/category/ruixeys-tycoon-kit-v1",
+  "permalink": "/docs/category/ruixeys-tycoon-kit-v1",
+  "navigation": {
+    "previous": {
+      "title": "About & Information",
+      "permalink": "/docs/about"
+    },
+    "next": {
+      "title": "Documentation",
+      "permalink": "/docs/RTK1/Documentation"
+    }
+  }
+}

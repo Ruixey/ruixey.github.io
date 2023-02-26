@@ -1,0 +1,26 @@
+{
+  "unversionedId": "package loader/Package Loader",
+  "id": "package loader/Package Loader",
+  "title": "Package Loader",
+  "description": "optional",
+  "source": "@site/docs/package loader/Package Loader.md",
+  "sourceDirName": "package loader",
+  "slug": "/package loader/",
+  "permalink": "/docs/package loader/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Package Loader",
+    "permalink": "/docs/package loader/Cloud Packages"
+  },
+  "next": {
+    "title": "packages",
+    "permalink": "/docs/category/packages-1"
+  }
+}

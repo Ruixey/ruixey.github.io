@@ -1,0 +1,26 @@
+{
+  "unversionedId": "rtk1/Addons",
+  "id": "rtk1/Addons",
+  "title": "Addons",
+  "description": "Coming Soon!",
+  "source": "@site/docs/rtk1/Addons.md",
+  "sourceDirName": "rtk1",
+  "slug": "/rtk1/Addons",
+  "permalink": "/docs/rtk1/Addons",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Documentation",
+    "permalink": "/docs/rtk1/Documentation"
+  },
+  "next": {
+    "title": "API",
+    "permalink": "/docs/rtk1/API"
+  }
+}

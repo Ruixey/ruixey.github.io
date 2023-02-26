@@ -1,0 +1,16 @@
+{
+  "title": "Ruixey's Packages",
+  "description": "Advanced management system for packages",
+  "slug": "/category/packages-1",
+  "permalink": "/docs/category/packages-1",
+  "navigation": {
+    "previous": {
+      "title": "Package Loader",
+      "permalink": "/docs/package loader/"
+    },
+    "next": {
+      "title": "Package Loader",
+      "permalink": "/docs/package loader/packages/Cloud Packages"
+    }
+  }
+}

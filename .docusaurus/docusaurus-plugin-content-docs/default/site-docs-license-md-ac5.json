@@ -1,0 +1,23 @@
+{
+  "unversionedId": "license",
+  "id": "license",
+  "title": "Licensing",
+  "description": "This license automatically applies to all versions of software written by Ruixey exept the asset has another license in it's source.",
+  "source": "@site/docs/license.md",
+  "sourceDirName": ".",
+  "slug": "/license",
+  "permalink": "/docs/license",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1000000,
+  "frontMatter": {
+    "title": "Licensing",
+    "sidebar_position": 1000000
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Package Loader",
+    "permalink": "/docs/package loader/packages/Package Loader"
+  }
+}

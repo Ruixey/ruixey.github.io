@@ -1,0 +1,83 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "about",
+          "docs": [
+            {
+              "id": "about",
+              "path": "/docs/about",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "license",
+              "path": "/docs/license",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "package loader/Cloud Packages",
+              "path": "/docs/package loader/Cloud Packages",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "package loader/Package Loader",
+              "path": "/docs/package loader/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "package loader/packages/Cloud Packages",
+              "path": "/docs/package loader/packages/Cloud Packages",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "package loader/packages/Package Loader",
+              "path": "/docs/package loader/packages/Package Loader",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "RTK1/Addons",
+              "path": "/docs/RTK1/Addons",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "RTK1/Documentation",
+              "path": "/docs/RTK1/Documentation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/rtk1",
+              "path": "/docs/category/rtk1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/packages",
+              "path": "/docs/category/packages",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/packages-1",
+              "path": "/docs/category/packages-1",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/about",
+                "label": "about"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

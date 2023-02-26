@@ -1,0 +1,23 @@
+{
+  "unversionedId": "about",
+  "id": "about",
+  "title": "About & Information",
+  "description": "Getting Started",
+  "source": "@site/docs/about.md",
+  "sourceDirName": ".",
+  "slug": "/about",
+  "permalink": "/docs/about",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "title": "About & Information",
+    "sidebar_position": 0
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "RTK1",
+    "permalink": "/docs/category/rtk1"
+  }
+}
