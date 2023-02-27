@@ -24,7 +24,7 @@ Publish the place to Roblox
 
 ## File
 
-Upload the file of the asset to the #versions channel in the correct category
+Upload the file of the asset to the #downloads channel in the correct category
 
 ## Announcement
 

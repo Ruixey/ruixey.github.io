@@ -11,7 +11,7 @@ export default {
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "/img/favicon.ico",
-  "deploymentBranch": "gh-pages",
+  "deploymentBranch": "production",
   "organizationName": "Ruixey",
   "projectName": "ruixey.github.io",
   "i18n": {
